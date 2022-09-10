@@ -40,7 +40,7 @@ a {
 }
 
 .return-home:hover {
-    color: #ffa2bb;
+    color: lightblue;
     transition: all 0.2s ease-out;
 }
 
